@@ -25,15 +25,28 @@
 </p>
 
 ---
-
 ## 🔬 Featured Projects
 
-| 🌟 Project | ⚙️ Tech/Area | 📖 Description |
+Here are some of my key Machine Learning & Deep Learning projects:
+
+| 🏆 Project | 🔧 Repo | 📖 Description |
 | :--- | :--- | :--- |
-| **Insurance Price Predictor** | Regression | Estimate insurance cost based on customer attributes. |
-| **Credit Risk Modelling** | Classification | Predict loan defaults using ML techniques. |
-| **Rock vs Mines** | Deep Learning (ANN) | Neural Net for sonar signal classification. |
-| **Movie Recommendation System** | Collaborative Filtering | Personalized movie suggestions using ML. |
+| **Beverage Consumer Prediction** | [ML-Beverage-Consumer-Prediction](https://github.com/Satya-789/ML-Beverage-Consumer-Prediction) | Predicted consumer behavior & beverage preferences using ML models and deployment with Streamlit. |
+| **Insurance Price Predictor** | [ML-Project---Insurance-Price-Predictor](https://github.com/Satya-789/ML-Project---Insurance-Price-Predictor) | Built a regression model to estimate insurance costs based on consumer attributes. |
+| **Credit Risk Modelling** | [Classification-Project-Credit-Risk-Modelling](https://github.com/Satya-789/Classification-Project-Credit-Risk-Modelling) | Classification project for predicting loan default risk for financial institutions. |
+| **Car Damage Detection** | [DL-Project-Car-Damage-detection](https://github.com/Satya-789/DL-Project-Car-Damage-detection) | Deep learning project for detecting car damages from images. |
+| **Heart Disease Predictor** | [ML_Project-Heart-Disease-Predictor](https://github.com/Satya-789/ML_Project-Heart-Disease-Predictor) | ML model to predict the risk of heart disease from patient data. |
+| **Rock vs Mines** | [DL-Project-Rock-Vs-Mines](https://github.com/Satya-789/DL-Project-Rock-Vs-Mines) | ANN-based classifier for sonar signal data to detect rocks vs. mines. |
+| **Movie Recommendation System** | [ML_Project-Movie-Recommendation-System](https://github.com/Satya-789/ML_Project-Movie-Recommendation-System) | Collaborative filtering ML project for personalized movie suggestions. |
+| **Spam Classification (BERT)** | [DL-SPAM-Classification-using-BERT](https://github.com/Satya-789/DL-SPAM-Classification-using-BERT) | NLP project using BERT to classify SMS messages as spam or not. |
+| **Spam Detector (ML)** | [ML_Project-Spam-or-Not-Spam](https://github.com/Satya-789/ML_Project-Spam-or-Not-Spam) | Traditional ML approach (TF-IDF + classifiers) for spam message detection. |
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="220px" />
+</p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="220px" />
