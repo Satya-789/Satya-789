@@ -76,8 +76,8 @@ Here are some of my key Machine Learning & Deep Learning projects:
 ## 🌐 Let’s Connect
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_PROFILE_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/satya-prakash-mohanty/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dssatyaprakash@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="YOUR_KAGGLE_PROFILE_URL_HERE"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
   <a href="https://github.com/Satya-789"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
