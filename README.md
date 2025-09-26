@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUl7yX30S8K8z8Nn/giphy.gif" width="80px" alt="Hi" />
+ <!-- <img src="https://media.giphy.com/media/qgQUl7yX30S8K8z8Nn/giphy.gif" width="80px" alt="Hi" />-->
   <h1>Hi there, I'm <span style="color:#FF6F61">Satya Prakash Mohanty</span> 👨‍💻</h1>
 
   <!-- Typing Effect -->
