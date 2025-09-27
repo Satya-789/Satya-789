@@ -43,10 +43,10 @@ Here are some of my key Machine Learning & Deep Learning projects:
 | **Spam Detector (ML)** | [ML_Project-Spam-or-Not-Spam](https://github.com/Satya-789/ML_Project-Spam-or-Not-Spam) | Traditional ML (TF-IDF + classifiers) for SMS spam detection. |
 
 ---
-
+<!--
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="220px" />
-</p>
+</p>-->
 
 ---
 
