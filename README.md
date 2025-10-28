@@ -63,12 +63,10 @@ Here are some of my key Machine Learning & Deep Learning projects:
 
 ---
 
-## 🌟 Fun Metrics
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Satya-789&style=for-the-badge&color=blue" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Satya-789?label=Followers&style=for-the-badge&color=red"/>
-  <img src="https://img.shields.io/github/stars/Satya-789?label=Stars&style=for-the-badge&color=yellow"/>
 </div>
 
 ---
