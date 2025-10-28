@@ -49,6 +49,10 @@ Here are some of my key Machine Learning & Deep Learning projects:
 </p>-->
 
 ---
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Satya-789&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 
 ## 🌐 Let’s Connect
