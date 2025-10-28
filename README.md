@@ -50,26 +50,6 @@ Here are some of my key Machine Learning & Deep Learning projects:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satya-789&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satya-789&theme=tokyonight&hide_border=true" height="160"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Satya-789&theme=radical&no-frame=true&margin-w=10&row=1&column=6" />
-</div>
-
----
-
-
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Satya-789&style=for-the-badge&color=blue" alt="Profile Views"/>
-</div>
-
----
 
 ## 🌐 Let’s Connect
 
